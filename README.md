@@ -1,0 +1,2 @@
+# BLOCKCHAIN-TRANSATION
+The blockchain is a public ledger/record where transactions are registered in the form of blocks, visible to all users who have made a transaction. ... When we adopt blockchain in project management, we can use it for making payments, allotting funds, managing tasks with task management software, and much more. And it take more than an innovation idea to achieve blockchain success this is how enterprise are coming together through blockchain governance to add value to business network.
